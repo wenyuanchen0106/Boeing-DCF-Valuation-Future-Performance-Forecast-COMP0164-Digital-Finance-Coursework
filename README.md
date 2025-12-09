@@ -1,7 +1,7 @@
 # Boeing Future Performance Valuation (DCF Model)
-This repository contains the Python implementation used to compute Boeing’s intrinsic value for our COMP0164 Digital Finance group coursework.
+This repository contains the Python implementation used to compute Boeing’s intrinsic value for our COMP0164 Digital Finance group19 coursework.
 
-The script (`BAfuturePerformance.py`) replicates the full valuation workflow from our final report, including:
+The script (`BA_Future_Performance.ipynb`) replicates the full valuation workflow from our final report, including:
 
 ### Core Features
 - **WACC calculation** using CAPM  
